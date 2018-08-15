@@ -7,13 +7,13 @@ Source code has OOP(Object Oriented Programming) structure.
 
 ## Screenshots
 
-![Screenshot](https://github.com/superdev2end/3DVoxelDesigner/blob/main/media/screenshot_1.png?raw=true)
+![Screenshot](https://github.com/superdevpp/3DVoxelDesigner/blob/main/media/screenshot_1.png?raw=true)
 
-![Screenshot](https://github.com/superdev2end/3DVoxelDesigner/blob/main/media/screenshot_2.png?raw=true)
+![Screenshot](https://github.com/superdevpp/3DVoxelDesigner/blob/main/media/screenshot_2.png?raw=true)
 
-![Screenshot](https://github.com/superdev2end/3DVoxelDesigner/blob/main/media/screenshot_3.png?raw=true)
+![Screenshot](https://github.com/superdevpp/3DVoxelDesigner/blob/main/media/screenshot_3.png?raw=true)
 
-![Screenshot](https://github.com/superdev2end/3DVoxelDesigner/blob/main/media/screenshot_4.png?raw=true)
+![Screenshot](https://github.com/superdevpp/3DVoxelDesigner/blob/main/media/screenshot_4.png?raw=true)
 
 ## Videos
 [Watch the video 1](https://www.youtube.com/watch?v=mMXEV2MjSnI)
@@ -27,5 +27,5 @@ Source code has OOP(Object Oriented Programming) structure.
 
 
 ### Creator
-Email [superdev2end@gmail.com](mailto:superdev2end@gmail.com)
+Email [superdevpp@gmail.com](mailto:superdevpp@gmail.com)
 
