@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/3D_Voxel_Designer_Icon.png</file>
+        <file>resource/3D_Voxel_Designer_LOGO.png</file>
+        <file>resource/3D_Voxel_Designer_Icon.ico</file>
+        <file>resource/btn_reactor_1.png</file>
+        <file>resource/btn_reactor_2.png</file>
+        <file>resource/btn_reactor_3.png</file>
+        <file>resource/btn_reactor_4.png</file>
+        <file>resource/btn_reactor_5.png</file>
+        <file>resource/btn_reactor_6.png</file>
+        <file>resource/btn_reactor_7.png</file>
+        <file>resource/btn_reactor_8.png</file>
+    </qresource>
+</RCC>
